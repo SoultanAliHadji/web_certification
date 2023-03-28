@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <Router>
         <Switch>
-          <Route exact path="/web_certification" component={Navbar} />
+          <Route exact path="https://SoultanAliHadji.github.io/web_certification" component={Navbar} />
         </Switch>
       </Router>
     </div>
