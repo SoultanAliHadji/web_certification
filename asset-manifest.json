@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f734158.css",
+    "main.js": "/static/js/main.62bc4b7b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/landingHero.png": "/static/media/landingHero.6cb9ac0d12a8994ea10b.png",
+    "static/media/tourismImg4.jpg": "/static/media/tourismImg4.22b850215ffd673b3391.jpg",
+    "static/media/tourismImg2.jpg": "/static/media/tourismImg2.69e6751ab109c4514f3d.jpg",
+    "static/media/tourismImg1.jpg": "/static/media/tourismImg1.6db1fadda14503de48c5.jpg",
+    "static/media/tourismImg3.jpg": "/static/media/tourismImg3.d96029a17e42cc11c4b9.jpg",
+    "index.html": "/index.html",
+    "main.1f734158.css.map": "/static/css/main.1f734158.css.map",
+    "main.62bc4b7b.js.map": "/static/js/main.62bc4b7b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f734158.css",
+    "static/js/main.62bc4b7b.js"
+  ]
+}
