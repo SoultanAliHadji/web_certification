@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <Router>
         <Switch>
-          <Route exact path="/" component={Navbar} />
+          <Route exact path="/web_certification" component={Navbar} />
         </Switch>
       </Router>
     </div>
